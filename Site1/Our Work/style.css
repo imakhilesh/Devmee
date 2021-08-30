@@ -1,0 +1,16 @@
+.navbar-brand {
+    margin-right: 0rem;}
+
+.card {
+        margin: 10px;
+    }
+
+.change{
+    display: flex;
+    flex: 1;
+}
+
+hr.rounded {
+    border-top: 8px solid #bbb;
+    border-radius: 5px;
+  }
